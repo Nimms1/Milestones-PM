@@ -144,7 +144,7 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
-        <members>Milestone1_Getting_Started</members>
+        <members>*</members>
         <name>CustomPageWebLink</name>
     </types>
     <types>
